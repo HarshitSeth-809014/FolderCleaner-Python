@@ -8,6 +8,6 @@ You will need Python 3.8.7 in your computer.
 Run the main.py file and enjoy. You will not need to clear the clutter.
 
 ## Author
-Name: Harshit Seth/
-Class: 8/
+Name: Harshit Seth\
+Class: 8\
 Age: 13 years
